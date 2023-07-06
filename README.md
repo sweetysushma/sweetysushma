@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack WEB DEVELOPMENT**
 
-- 💬 Ask me about **Full Stack**
+- 💬 Ask me about **Full Stack Web Development**
 
 - 📫 How to reach me **botchasushma@gmail.com**
 <img align="right" alt="Coding" width="400" src="https://consultaninja.com/wp-content/uploads/CodeNinja-1.png">
