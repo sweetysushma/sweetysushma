@@ -1,23 +1,23 @@
 
 ![MasterHead](https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRobWllrWdma2U.jpg)
 
-<h1 align="center">Hi 👋, I'm Chandrasekhar</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sushma Botcha</h1>
+<h3 align="center">A passionate Full Stack  developer from India</h3>
 
-- 🔭 I’m currently working on **RPA**
+- 🔭 I’m currently working on **Full Stack Developer**
 
-- 🌱 I’m currently learning **java backend specialization**
+- 🌱 I’m currently learning **Full Stack specialization**
 
-- 👯 I’m looking to collaborate on **BACKEND WEB DEVELOPMENT**
+- 👯 I’m looking to collaborate on **Full Stack WEB DEVELOPMENT**
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **Full Stack**
 
-- 📫 How to reach me **chandrasekharchadalawada7@gmail.com**
+- 📫 How to reach me **botchasushma@gmail.com**
 <img align="right" alt="Coding" width="400" src="https://consultaninja.com/wp-content/uploads/CodeNinja-1.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chadalawada-chandrasekhar-774074237?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3biswicwe6sscfyg5ag4keeq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chadalawada-chandrasekhar-774074237?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3biswicwe6sscfyg5ag4keeq%3d%3d" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sushma-botcha-5a0757210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chadalawada-chandrasekhar-774074237?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3biswicwe6sscfyg5ag4keeq%3d%3d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
